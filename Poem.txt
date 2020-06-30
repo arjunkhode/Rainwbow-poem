@@ -4,6 +4,7 @@ Blue
 Chartreuse
 peach
 Mint
+Burgundy
 
 These are the colors of the rainbow
 
